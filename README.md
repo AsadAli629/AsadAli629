@@ -3,6 +3,20 @@
 🚀 **Full-Stack Software Developer** | Mobile • Web • Desktop • APIs • Cloud  
 💼 Helping startups and businesses turn ideas into **reliable, scalable, production-ready software**
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=20&
+  pause=1000&
+  color=0A66C2&
+  width=700&
+  lines=Full-Stack+Software+Developer;
+  Mobile+%7C+Web+%7C+Desktop+Applications;
+  REST+API+%26+Backend+Development;
+  Docker+%7C+CI%2FCD+%7C+VPS+Deployment;
+  Open+for+Freelance+Projects" />
+</p>
+
 ---
 
 ## 💡 What I Do for Clients
@@ -89,6 +103,23 @@ I work with clients worldwide to build **high-quality software solutions** with 
 
 ---
 
+## 🌐 Portfolio
+Here are examples of solutions I deliver for clients:
+
+🔹 POS & Business Management Systems  
+🔹 Mobile Apps (.NET MAUI & Flutter)  
+🔹 REST APIs (PHP / Node.js)  
+🔹 Dockerized Backend Systems  
+🔹 CI/CD Automated Pipelines  
+
+<p>
+  <a href="https://github.com/AsadAli629?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Projects-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadAli629&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAli629&layout=compact)
@@ -106,7 +137,6 @@ If you’re looking for:
 ---
 
 ## 📫 Contact
-
 - 📧 Email: imasad34@gmail.com
 
 ---
