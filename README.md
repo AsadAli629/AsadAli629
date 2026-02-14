@@ -1,145 +1,105 @@
-# 👋 Hi, I'm Asad Ali
+<!-- ======================== HEADER / INTRO ======================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&width=700&lines=Hi,+I'm+Asad+Ali;Full-Stack+Software+Developer;Mobile+%7C+Web+%7C+Desktop+%7C+APIs+%7C+Cloud;Open+for+Freelance+Projects" />
+</p>
 
-🚀 **Full-Stack Software Developer** | Mobile • Web • Desktop • APIs • Cloud  
-💼 Helping startups and businesses turn ideas into **reliable, scalable, production-ready software**
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=20&
-  pause=1000&
-  color=0A66C2&
-  width=700&
-  lines=Full-Stack+Software+Developer;
-  Mobile+%7C+Web+%7C+Desktop+Applications;
-  REST+API+%26+Backend+Development;
-  Docker+%7C+CI%2FCD+%7C+VPS+Deployment;
-  Open+for+Freelance+Projects" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsadAli629&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Top+Skills-.NET%20MAUI%2CFlutter%2CNode.js-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Available+for+Freelance-Yes-green?style=for-the-badge&logo=upwork" />
 </p>
 
 ---
 
-## 💡 What I Do for Clients
-I work with clients worldwide to build **high-quality software solutions** with a strong focus on performance, security, and long-term maintainability.
+## 💼 About Me
+I am a **Full-Stack Developer** helping businesses & startups turn ideas into **scalable, reliable, and production-ready software**.  
+I deliver **Mobile, Web, Desktop, and Cloud solutions** with **clean code, CI/CD pipelines, and VPS deployments**.  
 
-### ✅ Services I Offer
-- 📱 **Mobile App Development** (.NET MAUI, Flutter)
-- 🌐 **Frontend Web Development** (HTML, CSS, JavaScript)
-- 🧩 **Backend & REST API Development** (PHP, Node.js)
-- 🖥️ **Desktop Applications** (WPF – .NET)
-- 🔗 **API Development & Integration**
-- 🗄️ **Database Design & Implementation**
-- 🐳 **Docker Containerization**
-- ⚙️ **CI/CD Pipelines (GitHub Actions)**
-- ☁️ **VPS Deployment & Server Management**
+**Key highlights:**
+- 🔹 End-to-end software development  
+- 🔹 REST API creation & integration  
+- 🔹 Docker containerization & CI/CD automation  
+- 🔹 VPS hosting, deployment & maintenance  
+- 🔹 Freelancer mindset: delivery-focused, client-first  
 
 ---
 
-## 🧠 Why Clients Choose Me
-✔ Strong communication & clear understanding of requirements  
-✔ Experience with **real-world business systems**  
-✔ Clean, maintainable & scalable code  
-✔ End-to-end delivery (development → deployment)  
-✔ Freelancer mindset — **results and deadlines matter**
+## 🚀 Services / Freelancing Offerings
+| Service | Tools & Tech |
+|---------|--------------|
+| **Mobile App Development** | .NET MAUI, Flutter |
+| **Web Development** | HTML5, CSS3, JavaScript, TypeScript |
+| **Backend & API** | PHP, Node.js, RESTful APIs |
+| **Desktop Apps** | WPF (.NET) |
+| **Database** | Firebase, Supabase, MongoDB, PostgreSQL, MySQL, SQL Server |
+| **DevOps / Hosting** | Docker, GitHub Actions (CI/CD), VPS Management |
 
 ---
 
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-- .NET MAUI
-- Flutter
-
-### 🌐 Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript (Basic)
-
-### 🧩 Backend & API Development
-- PHP (RESTful APIs)
-- Node.js
-- Authentication & Authorization
-- API Development & API Integration
-
-### 🖥️ Desktop Development
-- WPF (.NET)
-
-### 🗄️ Databases
-- Firebase (Auth, Firestore, Realtime DB)
-- Supabase
-- MongoDB
-- PostgreSQL
-- MySQL
-- SQL Server
-
-### ⚙️ DevOps & Cloud
-- Docker (Containerization)
-- VPS Hosting & Server Management
-- GitHub Actions (CI/CD Pipelines)
-- Linux Server Basics
+## 🛠️ Tech Stack & Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
-## 💻 Programming Languages
-- C#
-- C++
-- PHP
-- JavaScript
-- Node.js
-- TypeScript (Basic)
+## 📌 Projects / Portfolio Highlights
+Here are some examples of **high-impact solutions** I deliver:
 
----
+- 🧾 POS & Business Management Systems  
+- 📱 Mobile Applications (Flutter & .NET MAUI)  
+- 🌐 Web Applications (Frontend + Backend)  
+- 🔗 RESTful APIs (PHP / Node.js)  
+- 🐳 Dockerized Backends & CI/CD Pipelines  
+- ☁️ Cloud-hosted Production-ready Applications  
 
-## 📌 Types of Projects I Work On
-- 🧾 POS & Business Management Systems
-- 📱 Mobile Applications (Android / iOS)
-- 🌐 Web Applications
-- 🔗 RESTful APIs
-- 📊 Admin Dashboards
-- 🔐 Authentication Systems
-- ☁️ Cloud-Hosted Applications
-- 🔄 Automated CI/CD Pipelines
-
----
-
-## 🌐 Portfolio
-Here are examples of solutions I deliver for clients:
-
-🔹 POS & Business Management Systems  
-🔹 Mobile Apps (.NET MAUI & Flutter)  
-🔹 REST APIs (PHP / Node.js)  
-🔹 Dockerized Backend Systems  
-🔹 CI/CD Automated Pipelines  
-
-<p>
+<p align="center">
   <a href="https://github.com/AsadAli629?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects-GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View%20Projects-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsadAli629&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAli629&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsadAli629&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAli629&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Let’s Work Together
-If you’re looking for:
-- A **reliable long-term developer**
-- A **clean & scalable solution**
-- Someone who understands **business requirements**
+If you need a **reliable developer for your project**:
+- A **clean, scalable solution**  
+- A developer who **understands business requirements**  
+- Someone who delivers **on time and professional results**
 
-📩 **Feel free to reach out — I’m open to new projects.**
+📩 **Reach out — I’m open for freelance projects.**
 
 ---
 
-## 📫 Contact
-- 📧 Email: imasad34@gmail.com
+## 📫 Contact Me
+<p align="center">
+  <a href="mailto:imasad34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-imasad34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ⭐ Client-Focused Promise
-> I don’t just write code — I build **solutions that work in production**.
+> I don’t just write code  I build **solutions that work in production**, delivered **on time** with a **freelancer-first mindset**.
